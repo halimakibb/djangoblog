@@ -1,0 +1,32 @@
+Classes:
+
+1. Post
+2. Categories
+3. Tags
+4. Authors.
+=============
+
+Attributes:
+1. Post
+====
+1. title
+2. date
+3. body
+4. tags
+5. categories
+6. author
+
+2. Categories
+====
+1. name
+2. description
+
+3. Tags
+====
+1. name
+
+4. Authors
+====
+1. name
+2. e-mail
+3. bio
